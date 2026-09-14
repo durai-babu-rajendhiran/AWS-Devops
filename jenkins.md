@@ -17,7 +17,6 @@ sudo apt upgrade -y
 ```
 
 ---
-
 ## 2. Install Java
 
 Jenkins requires Java.
